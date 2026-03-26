@@ -1,0 +1,8 @@
+# robots.txt pour Valkor — portfolio web & cybersécurité
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://valkor.netlify.app/sitemap.xml
